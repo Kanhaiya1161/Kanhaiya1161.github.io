@@ -54,7 +54,7 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KanhaiyaSingh01&theme=github-compact&area=true" />
+  <img src="https://github.com/Kanhaiya1161" />
 </p>
 
 ---
