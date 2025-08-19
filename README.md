@@ -99,7 +99,6 @@
 <a href="https://leetcode.com/u/Kanhaiya_Singh_12/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Kanhaiya1161" /></a>
 <a href="https://www.geeksforgeeks.org/user/kanhaiyasinghbharadwaj12/" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="Kanhaiya1161"/></a>
 <a href="https://www.hackerrank.com/profile/kanhaiyabharadw1" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Kanhaiya1161"/></a>
-<a href="https://www.naukri.com/code360/profile/devgoyalg" target="blank"><img align="center" src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Kanhaiya1161"/></a>
 
 </p>
 
@@ -189,8 +188,8 @@
 <p>
 -->
 
-## &nbsp;🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=DevGoyalG&theme=algolia)](https://github.com/DevGoyalG/github-profile-trophy)
+<!--## &nbsp;🏆 GitHub Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=DevGoyalG&theme=algolia)](https://github.com/DevGoyalG/github-profile-trophy)--!>
 
 ## 📊 Github Stats
 
@@ -200,7 +199,7 @@
 <p align="left">
 <a href="https://github.com/Kanhaiya1161">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DevGoyalG&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DevGoyalG&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kanhaiya1161&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
