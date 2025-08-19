@@ -43,9 +43,9 @@
 
 | | |  || | 
 |-----------|-----------|-----------|-----------|-----------|
-| B Tech (CSE-AIML) | <img src="https://www.glbajajgroup.org/img/about-us/new-logo-glbajaj.webp" width="30" height="30"/> |Noida Institute of Engineering and Technology  | 7.71 CGPA | Nov 22 - June 2026 |
-| 10+2 (PCM) | <img src="https://upload.wikimedia.org/wikipedia/en/b/b7/West_Bengal_Council_of_Higher_Secondary_Education_Logo.png" width="30" height="30"/> | D.A.V. Public School, HFC, Barauni | 81.6% | June 2019 - June 2021 |
-| 10  | <img src="https://wbbse.wb.gov.in/img/logo.png" width="30" height="30"/> | B.P.S. Public School, Naokothi, Begusarai | 87.2% | April 2018 - March 2019|
+| B Tech (CSE-AIML) | <img src="https://brandfetch.com/niet.co.in?library=default&collection=logos&asset=idoXdEHXCg" width="30" height="30"/> |Noida Institute of Engineering and Technology  | 7.71 CGPA | Nov 22 - June 2026 |
+| 10+2 (PCM) | <img src="https://brandfetch.com/davpubschoolgmnd.org?library=default&collection=logos&asset=idTm4cDwFT" width="30" height="30"/> | D.A.V. Public School, HFC, Barauni | 81.6% | June 2019 - June 2021 |
+| 10th | B.P.S. Public School, Naokothi, Begusarai | 87.2% | April 2018 - March 2019|
 
 
 <!--
