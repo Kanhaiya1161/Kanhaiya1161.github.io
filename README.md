@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kanhaiya1161&label=Profile%20views&color=0e75b6&style=flat" alt="Kanhaiya1161" /> </p>
 
 ## 👨‍💻  &nbsp;About Me 
-- I'm **Full Stack Web Developer**
+- I'm **Full Stack Web Developer and AIML Enthusiast**
 - **1⭐** on **CodeChef**
 - LeetCode Max Ratings: **1549**
 - **500+ Followers** & **15k+ Impressions** on **LinkedIn** 🚀
@@ -221,7 +221,7 @@
 	<a href="https://github.com/Kanhaiya1161" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/kanhaiya-singh-bharadwaj/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 <!-- 	<a href="https://www.facebook.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a> -->
-	<a href="https://www.instagram.com/dev_goyal_g/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.instagram.com/k.a.n.h.a.i.y.a_7/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://x.com/_Kanhaiya_01" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="X"/></a>
 	<a href="mailto:kanhaiya.12.ksb@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
