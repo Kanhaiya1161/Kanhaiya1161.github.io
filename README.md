@@ -43,8 +43,8 @@
 
 | | |  || | 
 |-----------|-----------|-----------|-----------|-----------|
-| B Tech (CSE-AIML) | <img src="https://brandfetch.com/niet.co.in?library=default&collection=logos&asset=idoXdEHXCg" width="30" height="30"/> |Noida Institute of Engineering and Technology  | 7.71 CGPA | Nov 22 - June 2026 |
-| 10+2 (PCM) | <img src="https://brandfetch.com/davpubschoolgmnd.org?library=default&collection=logos&asset=idTm4cDwFT" width="30" height="30"/> | D.A.V. Public School, HFC, Barauni | 81.6% | June 2019 - June 2021 |
+| B Tech (CSE-AIML) | Noida Institute of Engineering and Technology  | 7.71 CGPA | Nov 22 - June 2026 |
+| 10+2 (PCM) | D.A.V. Public School, HFC, Barauni | 81.6% | June 2019 - June 2021 |
 | 10th | B.P.S. Public School, Naokothi, Begusarai | 87.2% | April 2018 - March 2019|
 
 
