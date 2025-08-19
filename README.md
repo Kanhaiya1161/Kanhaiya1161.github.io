@@ -11,8 +11,6 @@
 
 ## 👨‍💻  &nbsp;About Me 
 - I'm **Full Stack Web Developer and AIML Enthusiast**
-- **1⭐** on **CodeChef**
-- LeetCode Max Ratings: **1549**
 - **500+ Followers** & **15k+ Impressions** on **LinkedIn** 🚀
 - Feel free to contact me : **kanhaiya.12.ksb@gmail.com**
 - You can also contact me on Blogger : **https://www.blogger.com/blog/posts/8222807923546841397**
@@ -40,7 +38,7 @@
 | Freelancing | <img src="https://pbs.twimg.com/profile_images/1453339438029869059/Mpk9QXje_400x400.jpg" width="30" height="30"/> | [Fiverr](https://www.fiverr.com/) | ```Android Development``` ```Android``` <br> ```Java``` ```Firebase```  | Freelancing | Mar 22 - Sep 22 |
 -->
 
-<!--
+
 <h2>📚 Academic  </h2>
 
 | | |  || | 
@@ -48,7 +46,7 @@
 | B Tech (CSE-AIML) | <img src="https://www.glbajajgroup.org/img/about-us/new-logo-glbajaj.webp" width="30" height="30"/> |Noida Institute of Engineering and Technology  | 7.71 CGPA | Nov 22 - June 2026 |
 | 10+2 (PCM) | <img src="https://upload.wikimedia.org/wikipedia/en/b/b7/West_Bengal_Council_of_Higher_Secondary_Education_Logo.png" width="30" height="30"/> | D.A.V. Public School, HFC, Barauni | 81.6% | June 2019 - June 2021 |
 | 10  | <img src="https://wbbse.wb.gov.in/img/logo.png" width="30" height="30"/> | B.P.S. Public School, Naokothi, Begusarai | 87.2% | April 2018 - March 2019|
--->
+
 
 <!--
 <h2 align="left">🙎‍♂️ Position of Responsibility</h2>
@@ -172,21 +170,17 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-<!--
 ### 💻 Software and Tools
 
 <p>
-<a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
 <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
 <p>
--->
 
 <!--## &nbsp;🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=DevGoyalG&theme=algolia)](https://github.com/DevGoyalG/github-profile-trophy)--!>
@@ -219,7 +213,6 @@
 	<a href="https://personal-portfolio-kanhaiya.netlify.app/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
 	<a href="https://github.com/Kanhaiya1161" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/kanhaiya-singh-bharadwaj/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-<!-- 	<a href="https://www.facebook.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a> -->
 	<a href="https://www.instagram.com/k.a.n.h.a.i.y.a_7/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://x.com/_Kanhaiya_01" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="X"/></a>
 	<a href="mailto:kanhaiya.12.ksb@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
